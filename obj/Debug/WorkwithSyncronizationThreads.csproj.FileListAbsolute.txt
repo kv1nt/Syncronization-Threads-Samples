@@ -1,0 +1,7 @@
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\bin\Debug\ThreadSyncTest.exe.config
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\bin\Debug\ThreadSyncTest.exe
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\bin\Debug\ThreadSyncTest.pdb
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\obj\Debug\WorkwithSyncronizationThreads.csproj.CoreCompileInputs.cache
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\obj\Debug\ThreadSyncTest.exe
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\obj\Debug\ThreadSyncTest.pdb
+C:\Users\kv111\source\repos\ConsoleApp1\ThreadSyncTest\obj\Debug\WorkwithSyncronizationThreads.csprojAssemblyReference.cache
